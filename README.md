@@ -33,9 +33,8 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
     return V, pi
 ```
 ## OUTPUT:
-<img width="787" height="130" alt="image" src="https://github.com/user-attachments/assets/0a60a025-34ee-44d7-9a62-a26940d505a2" />
+<img width="1860" height="560" alt="image" src="https://github.com/user-attachments/assets/253e0c2c-47e6-4561-a6fd-b3768689e02d" />
 <img width="687" height="26" alt="image" src="https://github.com/user-attachments/assets/6c222e66-1ef2-495b-bfa3-4f3af714ad88" />
-<img width="658" height="103" alt="image" src="https://github.com/user-attachments/assets/b9e60e94-d364-4f04-81b5-f6f6e78ea321" />
 
 ## RESULT:
 
